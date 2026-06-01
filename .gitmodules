@@ -1,0 +1,3 @@
+[submodule "submodules/TM1637"]
+	path = submodules/TM1637
+	url = https://github.com/wahlencraft/TM1637-pico
